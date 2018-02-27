@@ -21,3 +21,17 @@ Rejuvenating one’s mind
 Help in motivating one’s self
 Fostering creativity
 Escaping danger and pain
+
+Project Argument
+We think that fantasies are creating unrealistic images that could not happen in real life and brings more negativity.
+
+Project Statement
+We think that fantasies are creating unrealistic images that could not happen in real life and brings more negativity. However, fantasies are events we create in our mind that have yet to happen in reality and in fact a defence mechanism for one's self that could lead to motivation.
+
+Fantasies are the driving force for one's aspirations in life. In simple words, fantasies are as important relevant to one's self.
+
+After a discussion on the statements, i was suggested to change the word fantasy. Here is the revised project statement.
+
+Revised Project Statement
+Envisions are the driving force for one's aspirations in life. In simple words, envisions are as important and relevant to one's self.
+
