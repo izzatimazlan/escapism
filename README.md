@@ -1,4 +1,5 @@
 # escapism
+# Background Studies
 a project on immersive installation with the topic of fantasy
 Most people are focusing on how fantasy are doing more harm than good to one's mind and life. But here I want to focus on the good side of fantasizing. In my opinion, one's fantasies could actually help in achieving goals in life. Fantasizing our goals could help us to motivate ourselvess in achieving it in our future. Of course what we fantasize will not happen exactly in reality but we will/might reach to our desired destination. Fantasizing also could help one's mind as a therapy. It can rejuvenates one's mind to be positive and helps to make a decision. But, first of all, we need to learn what does fantasy means.
 
@@ -22,16 +23,16 @@ Help in motivating one’s self
 Fostering creativity
 Escaping danger and pain
 
-Project Argument
+# Project Argument
 We think that fantasies are creating unrealistic images that could not happen in real life and brings more negativity.
 
-Project Statement
+# Project Statement
 We think that fantasies are creating unrealistic images that could not happen in real life and brings more negativity. However, fantasies are events we create in our mind that have yet to happen in reality and in fact a defence mechanism for one's self that could lead to motivation.
 
 Fantasies are the driving force for one's aspirations in life. In simple words, fantasies are as important relevant to one's self.
 
 After a discussion on the statements, i was suggested to change the word fantasy. Here is the revised project statement.
 
-Revised Project Statement
+# Revised Project Statement
 Envisions are the driving force for one's aspirations in life. In simple words, envisions are as important and relevant to one's self.
 
