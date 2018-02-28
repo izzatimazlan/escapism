@@ -57,3 +57,46 @@ IDEA 6
 
 IDEA 7
 ![](https://user-images.githubusercontent.com/34453111/35620103-037674f2-06bb-11e8-81d9-9cb084eafdd4.png)
+
+# Software and Hardwares
+IDEA A
+Software
+After Effects 
+Processing
+Arduino
+
+Hardware
+Projector	- Provided
+Arduino - Owned
+3 LED Strip 5m - RM 30/unit
+Pressure Sensor Mat - 
+Speakers 	- Rm 80
+Fog Machine - Rm 100/day (rent)
+Fragrance 	- Rm 15
+Fluffy Carpet  - Rm 80
+
+Plan B 
+Software
+After effects
+Processing
+Premier Pro
+3ds Max (Optional)
+
+Hardware
+Projector	- Provided
+Leap motion - Provided
+Table	 - Rm 120
+Acrylic - Rm 400 
+Camera
+
+Plan C 
+Software
+Arduino
+Premiere pro
+
+Hardware
+LED Strip 5m - Rm 30/unit
+Tablet  - Rent
+Motion Sensors (4) - Rm20 
+Arduino - Owned
+Camera
