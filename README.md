@@ -36,3 +36,24 @@ After a discussion on the statements, i was suggested to change the word fantasy
 # Revised Project Statement
 Envisions are the driving force for one's aspirations in life. In simple words, envisions are as important and relevant to one's self.
 
+# Draft Sketches
+IDEA 1
+![](https://user-images.githubusercontent.com/34453111/35620264-9a346926-06bb-11e8-85a5-8d0af70858df.png)
+IDEA 2
+![](https://user-images.githubusercontent.com/34453111/35619221-3d71f224-06b8-11e8-9279-2e7bdd0e1121.jpg)
+
+IDEA 3
+![](https://user-images.githubusercontent.com/34453111/35619391-d9d89aaa-06b8-11e8-8a24-f4e6e06a6849.jpg)
+
+IDEA 4
+![](https://user-images.githubusercontent.com/34453111/35619438-027609ca-06b9-11e8-8547-22e276b13d3d.jpg)
+
+IDEA 5
+![](https://user-images.githubusercontent.com/34453111/35619626-8686f30a-06b9-11e8-8f40-f34279cc948d.png)
+![](https://user-images.githubusercontent.com/34453111/35619975-9bb2909e-06ba-11e8-8d50-9c4a6031e7da.png)
+
+IDEA 6
+![](https://user-images.githubusercontent.com/34453111/35619968-980c87ce-06ba-11e8-8fde-b1483ea8858f.png)
+
+IDEA 7
+![](https://user-images.githubusercontent.com/34453111/35620103-037674f2-06bb-11e8-81d9-9cb084eafdd4.png)
